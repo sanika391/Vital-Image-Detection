@@ -22,3 +22,10 @@ Vital Image Analytics is a Streamlit application designed to assist users in ide
    ```bash
    git clone https://github.com/your-username/vital-image-analytics.git
    cd vital-image-analytics
+'''
+
+### Interface of Website
+![Screenshot 2024-07-08 003006](https://github.com/sanika391/Vital-Image-Detection-Gemini/assets/116996971/b4eb18b3-a7af-4dc2-92fe-5873159c5a62)
+
+ 
+
