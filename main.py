@@ -1,9 +1,11 @@
 import streamlit as st
-from pathlib import Path
 import google.generativeai as genai
 
-st.set_page_config(page_title="VitalImage Analytics", page_icon=":robot:")
-st.image(r"image.png", width=150)
+st.image(r"logo.png", width=150)
+st.title("👩‍⚕ Vital❤️Image📸 Analytics📊")
+st.subheader("An application that can help users to identify medical images")
+
+
 # Configure your API key
 try:
     from api_keys import api_key
@@ -71,7 +73,6 @@ try:
 except Exception as e:
     st.error(f"Error initializing GenerativeModel: {e}")
     st.stop()
-
 
 uploaded_file = st.file_uploader("Upload the medical image for analysis", type=["png", "jpg", "jpeg"])
 submit_button = st.button("Generate the Analysis")
