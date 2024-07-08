@@ -45,5 +45,9 @@ streamlit run app.py
 ### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
+### Tools:
+![Screenshot 2024-07-09 011204](https://github.com/sanika391/Vital-Image-Detection-Gemini/assets/116996971/a964f910-d722-497d-9212-47bebe824d49)
+
+
  
 
