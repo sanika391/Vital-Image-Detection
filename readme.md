@@ -18,10 +18,10 @@ In medical diagnostics, understanding complex medical images can be challenging 
   
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/vital-image-analytics.git
-   cd vital-image-analytics
-   ```bash
+```bash
+git clone https://github.com/your-username/vital-image-analytics.git
+cd vital-image-analytics
+```bash
 
 2. Install dependencies:
 ```bash
