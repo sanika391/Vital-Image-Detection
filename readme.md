@@ -1,6 +1,6 @@
 ## Vital Image Analysis Gemini Api
 
-# Vital Image Analytics 📸
+## Vital Image Analytics 📸
 
 ![Project Logo](logo.png)
 
